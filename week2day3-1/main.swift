@@ -7,5 +7,12 @@
 
 import Foundation
 
-print("Hello, World!")
+var calc = InterestCalculator()
 
+func testInterest(unitDay: Int) {
+    for i in stride(from: 1, through: 365, by: unitDay) {
+        print(calc.calculateAmount(day: i, amount: 100))
+    }
+}
+
+testInterest(unitDay: 10)
