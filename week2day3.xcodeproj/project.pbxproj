@@ -24,7 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		4F1B57E3273BC8B500A83138 /* week2day3-1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "week2day3-1"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F1B57E3273BC8B500A83138 /* week2day3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = week2day3; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F1B57E6273BC8B500A83138 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4F1B57EF273BCD9E00A83138 /* InterestCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterestCalculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -43,7 +43,7 @@
 		4F1B57DA273BC8B500A83138 = {
 			isa = PBXGroup;
 			children = (
-				4F1B57E5273BC8B500A83138 /* week2day3-1 */,
+				4F1B57E5273BC8B500A83138 /* week2day3 */,
 				4F1B57E4273BC8B500A83138 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,26 +51,26 @@
 		4F1B57E4273BC8B500A83138 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4F1B57E3273BC8B500A83138 /* week2day3-1 */,
+				4F1B57E3273BC8B500A83138 /* week2day3 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4F1B57E5273BC8B500A83138 /* week2day3-1 */ = {
+		4F1B57E5273BC8B500A83138 /* week2day3 */ = {
 			isa = PBXGroup;
 			children = (
 				4F1B57EF273BCD9E00A83138 /* InterestCalculator.swift */,
 				4F1B57E6273BC8B500A83138 /* main.swift */,
 			);
-			path = "week2day3-1";
+			path = week2day3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4F1B57E2273BC8B500A83138 /* week2day3-1 */ = {
+		4F1B57E2273BC8B500A83138 /* week2day3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4F1B57EA273BC8B500A83138 /* Build configuration list for PBXNativeTarget "week2day3-1" */;
+			buildConfigurationList = 4F1B57EA273BC8B500A83138 /* Build configuration list for PBXNativeTarget "week2day3" */;
 			buildPhases = (
 				4F1B57DF273BC8B500A83138 /* Sources */,
 				4F1B57E0273BC8B500A83138 /* Frameworks */,
@@ -80,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = "week2day3-1";
+			name = week2day3;
 			productName = "week2day3-1";
-			productReference = 4F1B57E3273BC8B500A83138 /* week2day3-1 */;
+			productReference = 4F1B57E3273BC8B500A83138 /* week2day3 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4F1B57DE273BC8B500A83138 /* Build configuration list for PBXProject "week2day3-1" */;
+			buildConfigurationList = 4F1B57DE273BC8B500A83138 /* Build configuration list for PBXProject "week2day3" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4F1B57E2273BC8B500A83138 /* week2day3-1 */,
+				4F1B57E2273BC8B500A83138 /* week2day3 */,
 			);
 		};
 /* End PBXProject section */
@@ -267,7 +267,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4F1B57DE273BC8B500A83138 /* Build configuration list for PBXProject "week2day3-1" */ = {
+		4F1B57DE273BC8B500A83138 /* Build configuration list for PBXProject "week2day3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4F1B57E8273BC8B500A83138 /* Debug */,
@@ -276,7 +276,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4F1B57EA273BC8B500A83138 /* Build configuration list for PBXNativeTarget "week2day3-1" */ = {
+		4F1B57EA273BC8B500A83138 /* Build configuration list for PBXNativeTarget "week2day3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4F1B57EB273BC8B500A83138 /* Debug */,
